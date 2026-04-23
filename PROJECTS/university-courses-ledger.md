@@ -1,7 +1,7 @@
-# Project Ledger â [Project Name]
+# Project Ledger [Project Name]
 
 > **Purpose:** Running memory for this project. Updated every weekly recap.
-> **Rule:** Never delete old entries. Decisions must have a reason. Trends are visible here â not in weekly files.
+> **Rule:** Never delete old entries. Decisions must have a reason. Trends are visible here Ã¢ÂÂ not in weekly files.
 
 -----
 
@@ -10,7 +10,7 @@
 - **Started:** YYYY-MM-DD
 - **Category:** (Health / Finance / Work / Personal / Other)
 - **Goal / Definition of Done:**
-- **Current Status:** ð¢ Active / ð¡ Slow / ð´ Stalled / â¸ Paused / â Complete / â Killed
+- **Current Status:** Ã°ÂÂÂ¢ Active / Ã°ÂÂÂ¡ Slow / Ã°ÂÂÂ´ Stalled / Ã¢ÂÂ¸ Paused / Ã¢ÂÂ Complete / Ã¢ÂÂ Killed
 
 -----
 
@@ -36,8 +36,8 @@
 > Update this section monthly or when a pattern becomes obvious.
 
 - **Momentum:** Accelerating / Steady / Slowing / Stalled
-- **Decision pattern:** (e.g. â3 Continues then stalled at same blockerâ)
-- **Blocker pattern:** (e.g. âAlways time â weekend only projectâ)
+- **Decision pattern:** (e.g. Ã¢ÂÂ3 Continues then stalled at same blockerÃ¢ÂÂ)
+- **Blocker pattern:** (e.g. Ã¢ÂÂAlways time Ã¢ÂÂ weekend only projectÃ¢ÂÂ)
 - **Still worth it?** Yes / No / Needs adjustment
 - **Notes:**
 
@@ -47,9 +47,9 @@
 
 |Milestone|Target Date|Actual Date|Status                                |
 |---------|-----------|-----------|--------------------------------------|
-|         |           |           |â¬ Not started / ð In progress / â Done|
-|         |           |           |â¬ Not started / ð In progress / â Done|
-|         |           |           |â¬ Not started / ð In progress / â Done|
+|         |           |           |Ã¢Â¬Â Not started / Ã°ÂÂÂ In progress / Ã¢ÂÂ Done|
+|         |           |           |Ã¢Â¬Â Not started / Ã°ÂÂÂ In progress / Ã¢ÂÂ Done|
+|         |           |           |Ã¢Â¬Â Not started / Ã°ÂÂÂ In progress / Ã¢ÂÂ Done|
 
 -----
 
