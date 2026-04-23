@@ -1,0 +1,18 @@
+{
+  "week": 17,
+  "year": 2026,
+  "type": "impulse",
+  "generated": "2026-04-23",
+  "entries": [
+    {
+      "project": "2026-04-23",
+      "date": "update etst",
+      "impulse": "locw",
+      "microAction": "#impulse",
+      "tag": "#impulse"
+    }
+  ],
+  "projects": [
+    "2026-04-23"
+  ]
+}
