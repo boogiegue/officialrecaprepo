@@ -1,0 +1,83 @@
+{
+  "project": "university courses",
+  "type": "ledger",
+  "status": "** Ã°ÂÂÂ¢ Active / Ã°ÂÂÂ¡ Slow / Ã°ÂÂÂ´ Stalled / Ã¢ÂÂ¸ Paused / Ã¢ÂÂ Complete / Ã¢ÂÂ Killed",
+  "category": "** (Health / Finance / Work / Personal / Other)",
+  "goal": "**",
+  "started": "** YYYY-MM-DD",
+  "generated": "2026-04-23",
+  "weeklyLog": [
+    {
+      "week": "Week",
+      "date": "Date",
+      "progress": "Progress / Notes",
+      "blockers": "Blockers",
+      "decision": "Decision",
+      "reason": "Reason"
+    },
+    {
+      "week": "W1",
+      "date": "YYYY-MM-DD",
+      "progress": "Continue / Adjust / Pause / Kill",
+      "blockers": "",
+      "decision": "",
+      "reason": ""
+    },
+    {
+      "week": "W2",
+      "date": "YYYY-MM-DD",
+      "progress": "Continue / Adjust / Pause / Kill",
+      "blockers": "",
+      "decision": "",
+      "reason": ""
+    },
+    {
+      "week": "W3",
+      "date": "YYYY-MM-DD",
+      "progress": "Continue / Adjust / Pause / Kill",
+      "blockers": "",
+      "decision": "",
+      "reason": ""
+    },
+    {
+      "week": "W4",
+      "date": "YYYY-MM-DD",
+      "progress": "Continue / Adjust / Pause / Kill",
+      "blockers": "",
+      "decision": "",
+      "reason": ""
+    },
+    {
+      "week": "W5",
+      "date": "YYYY-MM-DD",
+      "progress": "Continue / Adjust / Pause / Kill",
+      "blockers": "",
+      "decision": "",
+      "reason": ""
+    },
+    {
+      "week": "W6",
+      "date": "YYYY-MM-DD",
+      "progress": "Continue / Adjust / Pause / Kill",
+      "blockers": "",
+      "decision": "",
+      "reason": ""
+    },
+    {
+      "week": "W7",
+      "date": "YYYY-MM-DD",
+      "progress": "Continue / Adjust / Pause / Kill",
+      "blockers": "",
+      "decision": "",
+      "reason": ""
+    },
+    {
+      "week": "W8",
+      "date": "YYYY-MM-DD",
+      "progress": "Continue / Adjust / Pause / Kill",
+      "blockers": "",
+      "decision": "",
+      "reason": ""
+    }
+  ]
+}
